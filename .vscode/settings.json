@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./keras/keras/api/_tf_keras"
+    ]
+}

@@ -13,4 +13,4 @@ AI classifier for AI-generated artworks.
 - **Other tools**: GalleryDL for scraping 10k+ digital artworks from subreddits
 
 ### at a glance
-![digiai](https://github.com/user-attachments/assets/407eb13d-1642-48ab-b40e-40ba146838d9)
+![clipboard-image-1716907437](https://github.com/user-attachments/assets/add25baf-2230-489c-8c7d-361199737fad)
